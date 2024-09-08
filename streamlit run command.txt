@@ -1,1 +1,0 @@
-streamlit run "D:\Multiple Disease Prediction\Multiple Disease Prediction ML.py"
